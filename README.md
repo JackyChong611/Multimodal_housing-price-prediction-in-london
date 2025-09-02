@@ -54,3 +54,13 @@ We evaluated performance with cross-validation and a held-out test set. The foll
 
 ● **What the model sees**: The strong performance from image inputs suggests the model is capturing subtle visual cues of property value – e.g. well-maintained facades, bright interiors, presence of street greenery, and signs of parking or traffic conditions. These visual signals play a big role in how buyers (and the model) perceive a home's value.
 
+## 🙏 Acknowledgements  
+
+This study relies on openly accessible datasets and APIs. I gratefully acknowledge the following sources for making their data available to the public:  
+
+- **Rightmove Sale Housing Listings:** [https://www.rightmove.co.uk/](https://www.rightmove.co.uk/)  
+- **UK Police Crime Data (London, May 2024 – April 2025):** [https://data.police.uk/data/](https://data.police.uk/data/)  
+- **Ordnance Survey Open Roads Dataset:** [https://www.ordnancesurvey.co.uk/products/os-open-roads](https://www.ordnancesurvey.co.uk/products/os-open-roads)  
+- **Google Maps Static API:** [https://developers.google.com/maps/documentation/maps-static/overview](https://developers.google.com/maps/documentation/maps-static/overview)  
+
+Their provision of open and well-documented resources has been critical in enabling reproducible research and supporting this multimodal housing price prediction project. 
